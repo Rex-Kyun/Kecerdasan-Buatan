@@ -1,3 +1,3 @@
 # Kecerdasan-Buatan
 Tugas Kecerdasan Buatan
-testing
+testing 2
